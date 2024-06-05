@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="dmoney Rest Assured Automation">
+    <test name="Admin login automation">
+        <classes>
+            <class name="testrunner.LoginTestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name="User creation automation">
+        <classes>
+            <class name="testrunner.CreateTestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name="System Automation">
+        <classes>
+            <class name="testrunner.SystemTestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name="Agent Automation">
+        <classes>
+            <class name="testrunner.AgentTestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name="customer Automation">
+        <classes>
+            <class name="testrunner.CustomerTestRunner">
+            </class>
+        </classes>
+    </test>
+    <test name="customer 2 Automation">
+        <classes>
+            <class name="testrunner.Customer2TestRunner">
+            </class>
+        </classes>
+    </test>
+</suite>
