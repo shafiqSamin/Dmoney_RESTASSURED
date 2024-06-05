@@ -56,3 +56,10 @@ After running the tests, use the following commands to generate and view the All
 <p><strong>allure generate allure-results --clean -output</strong></p>
 <p><strong>allure serve allure-results</strong></p>
 
+## Output of Allure Report
+
+![A_RESTAsserued2](https://github.com/shafiqSamin/Dmoney_RestAssured/assets/103017470/aeca132f-5666-495e-a690-0d48b2a91267)
+![A_RESTAsserud](https://github.com/shafiqSamin/Dmoney_RestAssured/assets/103017470/95b39727-e8ba-4131-8e3f-a36814c795c5)
+
+
+
