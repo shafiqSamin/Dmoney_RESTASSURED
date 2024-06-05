@@ -52,6 +52,7 @@ The automated tests address the following scenarios:
 
 ## Allure Report Generation
 
-After running the tests, use the following commands to generate and view the Allure report:
-allure generate allure-results --clean -output
-allure serve allure-results
+After running the tests, use the following commands to generate and view the Allure report: <be>
+<p><strong>allure generate allure-results --clean -output</strong></p>
+<p><strong>allure serve allure-results</strong></p>
+
